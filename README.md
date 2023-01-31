@@ -1,1 +1,2 @@
-# -epam_test_devops_spring_22_linux_bash
+Repository for results of Linux Bash tasks.
+Screenshots and scripts are here.
